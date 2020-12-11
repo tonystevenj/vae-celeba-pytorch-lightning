@@ -2,7 +2,7 @@
 Valinna VAE implemented in pytorch-lightning, trained through Celeba dataset. The mse loss used is 'sum' instead of 'mean'. 
 
 
-Need further optimize. But for now, we can see the result of sampling is close to training result. Which tells the theory works pretty good.
+Need further optimization, but for now, we can see the result of sampling is close to training result. Which tells the theory works pretty good.
 
 
 Link to the paper: https://arxiv.org/abs/1312.6114
