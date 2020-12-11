@@ -7,6 +7,9 @@ Need further optimization, but for now, we can see the result of sampling is clo
 
 View the code there: https://github.com/tonystevenj/vae-celeba-pytorch-lightning/blob/main/2020-fall-ml.ipynb
 
+*Note: This modle require long training time, and I trained it on Amazon SageMaker Studio. If you prefer Colab, pls don't forget to change root folder path to your mounted Google Drive, or you will lose your process after 12 hours (Longest Colab session is 12 hours).
+*you can set your root folder path by setting "default_root_dir='/content/drive/MyDrive'" to Trainner. [See official ducoment here](https://pytorch-lightning.readthedocs.io/en/stable/weights_loading.html). 
+
 
 Link to the paper: https://arxiv.org/abs/1312.6114
 
