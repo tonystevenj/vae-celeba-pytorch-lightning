@@ -5,6 +5,9 @@ Valinna VAE implemented in pytorch-lightning, trained through Celeba dataset. Th
 Need further optimization, but for now, we can see the result of sampling is close to training result. Which tells the theory works pretty good.
 
 
+View the code there: https://github.com/tonystevenj/vae-celeba-pytorch-lightning/blob/main/2020-fall-ml.ipynb
+
+
 Link to the paper: https://arxiv.org/abs/1312.6114
 
 
