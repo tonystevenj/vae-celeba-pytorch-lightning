@@ -1,5 +1,5 @@
-# Valinna Variational Auto Encoder
-Valinna VAE implemented in pytorch-lightning, trained through Celeba dataset. The mse loss used is 'sum' instead of 'mean'. 
+# Vanilla Variational Auto Encoder
+Vanilla VAE implemented in pytorch-lightning, trained through Celeba dataset. The mse loss used is 'sum' instead of 'mean'. 
 
 
 Need further optimization, but for now, we can see the result of sampling is close to training result. Which tells the theory works pretty good.
